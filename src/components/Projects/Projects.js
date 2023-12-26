@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="E-Commerce App"
               description="E-commerce website clone using Python Django framework, replicating the core functionalities of popular platforms including user authentication, product catalog management, and secure payment gateways. Essential features such as product search, cart management, and order processing has also been integrated."
-              // demoLink="https://chatify-49.web.app/"
+              demoLink="https://fardeenhasib.github.io/online-store"
               ghLink="https://github.com/fardeenhasib/E-Commerce-Website"
             />
 
@@ -42,7 +42,7 @@ function Projects() {
               title="Dinner Builder"
               description="An application build on ReactJS, Redux State Management tool, Firebase Database which helps an user to select ingredients of preferences to customise his/her dinner order."
               ghLink="https://github.com/fardeenhasib/burger_builder"
-            // demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://fardeenhasib.github.io/burger-builder"
             />
           </Col>
 
